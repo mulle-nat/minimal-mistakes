@@ -2,6 +2,8 @@
 
 **[Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes)** is a two column responsive Jekyll theme perfect for powering your GitHub hosted blog. 
 
+This fork was made to run with a plain jane jekyll 2.5.2 installation. I removed the Octopress dependency, because it's not really needed and I don't want it. I removed the Gemfile.lock because it caused undue grief in a docker environment.
+
 ## Minimal Mistakes is all about:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
